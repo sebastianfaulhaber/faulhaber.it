@@ -16,7 +16,7 @@ I work for Red Hat as a pre-sales manager with a strong focus on large enterpris
 
 # My passion
 
-Digital Transformation | Cloud | Kubernetes | OpenShift | Java | Node.JS | Middleware | Application Server | DevOps | Container | Business Process Management | Docker | DevOps | Cloud Native | Open Organization
+Digital Transformation, Cloud, Kubernetes, OpenShift, Java, Node.JS, Middleware, Application Server, DevOps, Container, Business Process Management, Docker, DevOps, Cloud Native, Open Organization
 
 # Professional profiles
 
