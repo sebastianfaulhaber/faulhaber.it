@@ -4,15 +4,26 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Portrait showing Sebastian Faulhaber](/assets/images/Sebastian_Faulhaber_9270final_small.jpeg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# My work
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I work for Red Hat as a pre-sales manager with a strong focus on large enterprise accounts. My areas of expertise especially cover application & business integration, DevOps and container technology. Moreover I am an advocate of combining the traditional technology portfolio with modern cloud approaches such as containers & platform as a service (PaaS / [Kubernetes](https://kubernetes.io/) / [OpenShift](https://www.openshift.com/) / Docker). To further spread the word around modern software architectures I do run the German speaking [OpenShift Users community](https://www.openshift-anwender.de/).
 
+# My business
 
-[jekyll-organization]: https://github.com/jekyll
+[Red Hat](https://www.redhat.com/de) is the world’s leading provider of enterprise open source solutions, using a community-powered approach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. Red Hat helps you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.
+
+# My passion
+
+Digital Transformation | Cloud | Kubernetes | OpenShift | Java | Node.JS | Middleware | Application Server | DevOps | Container | Business Process Management | Docker | DevOps | Cloud Native | Open Organization
+
+# Professional profiles
+
+* [XING](http://www.xing.com/profile/Sebastian_Faulhaber)
+* [LinkedIn](https://de.linkedin.com/in/sebastianfaulhaber)
+* [Github](https://github.com/sebastianfaulhaber)
+
+# Contact
+
+You can reach me at sebastian.faulhaber@gmx.de.
