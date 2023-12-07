@@ -8,9 +8,7 @@ permalink: /about/
 
 # My work
 
-I work for Red Hat as a pre-sales manager with a strong focus on large enterprise accounts. My areas of expertise especially cover application & business integration, DevOps and container technology. Moreover I am an advocate of combining the traditional technology portfolio with modern cloud approaches such as containers & platform as a service (PaaS / [Kubernetes](https://kubernetes.io/) / [OpenShift](https://www.openshift.com/) / Docker). To further spread the word around modern software architectures I do run the German speaking [OpenShift Users community](https://www.openshift-anwender.de/).
-
-# My business
+I work for [Red Hat](https://www.redhat.com/de) as a tech sales manager with a strong focus on large enterprise accounts. My areas of expertise especially cover application & business integration, DevOps and container technology. Moreover I am an advocate of combining the traditional technology portfolio with modern cloud approaches such as containers, serverless & GitOps ([Kubernetes](https://kubernetes.io/) / [OpenShift](https://www.openshift.com/) / Docker). Moreover I run the German speaking [OpenShift Users community](https://www.openshift-anwender.de/) in order to further spread the word around modern software architectures.
 
 [Red Hat](https://www.redhat.com/de) is the world’s leading provider of enterprise open source solutions, using a community-powered approach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. Red Hat helps you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.
 
