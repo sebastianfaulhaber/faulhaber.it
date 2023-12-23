@@ -3,10 +3,10 @@ layout: post
 title:  "Five tips for successfully dealing with challenging periods in your career"
 date:   2021-09-27 12:00:00 +0100
 categories: publications
-image: /assets/images/Five-tips-for-successfully-dealing-with-challenging-periods-in-your-career.jpg
+image: assets/images/Five-tips-for-successfully-dealing-with-challenging-periods-in-your-career.jpg
 ---
 
-![Five tips for successfully dealing with challenging periods in your career](/assets/images/Five-tips-for-successfully-dealing-with-challenging-periods-in-your-career.jpg)
+![Five tips for successfully dealing with challenging periods in your career](assets/images/Five-tips-for-successfully-dealing-with-challenging-periods-in-your-career.jpg)
 
 In my article “[Five lessons learned on leadership in an Open Organization][open-leadership]” I described my personal journey of moving into my first people management role at [Red Hat][redhat]. I also shared some of my best practices around leadership and approaches towards making a team successful in an Open Organization. Back then, I could not believe I would get harshly kicked out of my personal comfort zone so soon. Before I go there let me add some context. In the beginning of 2021 my team grew from seven to twelve members. This effectively meant that I needed to significantly decrease my time invested in making my associates successful. Then in April a colleague became sick and I was asked to take over the responsibility of another team with a rather different profile. And finally this team’s responsibilities had changed over the course of the year and were therefore mostly unclear.
 
@@ -75,4 +75,4 @@ Overall I can only encourage you to take challenges in your personal career with
 [growth]: https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means
 [boat]: https://www.youtube.com/watch?v=VlTfbGemGcM
 [parkinson]: https://en.wikipedia.org/wiki/Parkinson%27s_law
-[open-leadership]: {% post_url 2020-12-09-five-lessons-learned-on-leadership-in-an-open-organization %}
+[open-leadership]: {{site.baseurl}}/{% post_url 2020-12-09-five-lessons-learned-on-leadership-in-an-open-organization %}

@@ -21,8 +21,8 @@
 title: faulhaber.IT
 email: sebastian.faulhaber@gmx.de
 author: "Sebastian Faulhaber"
-description: >- # this means to ignore newlines until "baseurl:"
-  Open Leadership, cloud technology and a growth mindset create a better future.
+#description: >- # this means to ignore newlines until "baseurl:"
+#  Open Leadership, cloud technology and a growth mindset create a better future.
 baseurl: "/faulhaber.it" # the subpath of your site, e.g. /blog
 url: "https://sebastianfaulhaber.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title:output_ext
@@ -36,7 +36,6 @@ github_username: sebastianfaulhaber
 linkedin_username: sebastianfaulhaber
 
 show_excerpts: true
-skin: dark
 
 plugins:
   - jekyll-feed

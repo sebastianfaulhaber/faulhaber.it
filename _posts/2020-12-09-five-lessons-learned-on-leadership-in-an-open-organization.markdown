@@ -3,10 +3,10 @@ layout: post
 title:  "Five lessons learned on leadership in an Open Organization"
 date:   2020-12-09 12:00:00 +0100
 categories: publications
-image: /assets/images/Five-lessons-learned-on-leadership-in-an-Open-Organization.png
+image: assets/images/Five-lessons-learned-on-leadership-in-an-Open-Organization.png
 ---
 
-![Five lessons learned on leadership in an Open Organization](/assets/images/Five-lessons-learned-on-leadership-in-an-Open-Organization.png)
+![Five lessons learned on leadership in an Open Organization](assets/images/Five-lessons-learned-on-leadership-in-an-Open-Organization.png)
 
 I have been working in the IT business for over 16 years now and during that time I had the pleasure getting to know rather different companies. In the beginning I was part of a small 12 employee internet agency named Kingmedia, just before jumping into the enterprise world with [IBM][ibm] (which had about 300.000 employees) and the Open Source company [Red Hat][redhat]. Two years ago I also gave a real silicon valley startup named [Docker][docker] a spin, where we had been around 500 people.
 
