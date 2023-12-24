@@ -34,7 +34,7 @@ author:
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Open Leadership, cloud technology and a growth mindset create a better future.
 baseurl: "/faulhaber.it" # the subpath of your site, e.g. /blog
-url: "https://sebastianfaulhaber.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.faulhaber.it" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title:output_ext
 
 # Build settings
