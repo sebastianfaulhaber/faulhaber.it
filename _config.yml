@@ -20,7 +20,17 @@
 
 title: faulhaber.IT
 email: sebastian.faulhaber@gmx.de
-author: "Sebastian Faulhaber"
+author:
+  name: Sebastian Faulhaber
+  twitter: faulhaber_IT
+  picture: /assets/images/author.jpeg
+  links:
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/sebastianfaulhaber/
+      icon: fab fa-brands fa-linkedin
+    - title: Twitter
+      url: https://twitter.com/faulhaber_IT
+      icon: fab fa-twitter-square
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Open Leadership, cloud technology and a growth mindset create a better future.
 baseurl: "/faulhaber.it" # the subpath of your site, e.g. /blog
@@ -28,7 +38,9 @@ url: "https://sebastianfaulhaber.github.io" # the base hostname & protocol for y
 permalink: /:title:output_ext
 
 # Build settings
-theme: minima
+#theme: minima 
+# https://github.com/mmistakes/so-simple-theme/tree/master
+remote_theme: mmistakes/so-simple-theme
 
 # Minima Social Links
 twitter_username: faulhaber_IT
@@ -39,6 +51,7 @@ show_excerpts: true
 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -59,3 +72,14 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+footer_links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/sebastianfaulhaber/
+    icon: fab fa-brands fa-linkedin
+  - title: Twitter
+    url: https://twitter.com/faulhaber_IT
+    icon: fab fa-twitter-square
+  - title: GitHub
+    url: https://github.com/sebastianfaulhaber
+    icon: fab fa-github-square
